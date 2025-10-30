@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-## Name:S.Rohith kumar
-## Reg no:212224240153
+## Name:RIZWAN B
+## Reg no:212224100051
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
